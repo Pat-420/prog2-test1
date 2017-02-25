@@ -1,0 +1,5 @@
+D:\Cegep2017\PC-420-246-HU\Semaine3\Laboratoire3\CompteBancaire\bin\Debug\CompteBancaire.dll
+D:\Cegep2017\PC-420-246-HU\Semaine3\Laboratoire3\CompteBancaire\bin\Debug\CompteBancaire.pdb
+D:\Cegep2017\PC-420-246-HU\Semaine3\Laboratoire3\CompteBancaire\obj\Debug\CompteBancaire.csprojResolveAssemblyReference.cache
+D:\Cegep2017\PC-420-246-HU\Semaine3\Laboratoire3\CompteBancaire\obj\Debug\CompteBancaire.dll
+D:\Cegep2017\PC-420-246-HU\Semaine3\Laboratoire3\CompteBancaire\obj\Debug\CompteBancaire.pdb

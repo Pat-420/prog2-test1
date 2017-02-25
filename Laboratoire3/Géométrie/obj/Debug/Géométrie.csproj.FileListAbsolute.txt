@@ -1,0 +1,5 @@
+B:\Cegep2017\PC-420-246-HU\Semaine3\Laboratoire3\Géométrie\obj\Debug\Géométrie.csprojResolveAssemblyReference.cache
+B:\Cegep2017\PC-420-246-HU\Semaine3\Laboratoire3\Géométrie\bin\Debug\Géométrie.dll
+B:\Cegep2017\PC-420-246-HU\Semaine3\Laboratoire3\Géométrie\bin\Debug\Géométrie.pdb
+B:\Cegep2017\PC-420-246-HU\Semaine3\Laboratoire3\Géométrie\obj\Debug\Géométrie.dll
+B:\Cegep2017\PC-420-246-HU\Semaine3\Laboratoire3\Géométrie\obj\Debug\Géométrie.pdb
